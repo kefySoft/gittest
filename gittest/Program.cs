@@ -6,7 +6,7 @@ namespace gittest
   {
     static void Main(string[] args)
     { 
-      // 222
+      Console.WriteLine("Hello");
     }
   }
 }
