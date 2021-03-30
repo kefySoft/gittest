@@ -6,7 +6,7 @@ namespace gittest
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello Fucking World!");
+      Console.WriteLine("Bye Fucking World!");
     }
   }
 }
