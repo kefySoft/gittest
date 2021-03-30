@@ -6,8 +6,7 @@ namespace gittest
   {
     static void Main(string[] args)
     { 
-      // on github
-      Console.WriteLine("Branch home!");
+      // home -> master
     }
   }
 }
