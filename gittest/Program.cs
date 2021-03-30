@@ -5,8 +5,9 @@ namespace gittest
   class Program
   {
     static void Main(string[] args)
-    {
-      Console.WriteLine("Bye Fucking World!");
+    { 
+      // on github
+      Console.WriteLine("Branch home!");
     }
   }
 }
