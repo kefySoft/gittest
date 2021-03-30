@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gittest", "gittest\gittest.csproj", "{869ED392-7D7A-4696-A07F-38C3422B5FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{869ED392-7D7A-4696-A07F-38C3422B5FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869ED392-7D7A-4696-A07F-38C3422B5FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869ED392-7D7A-4696-A07F-38C3422B5FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869ED392-7D7A-4696-A07F-38C3422B5FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
